@@ -9,6 +9,10 @@
 
 When building microservices the owners of the services know very little about how they are consumed and if their users are successful. It gets even more complicated when your services change over time. Consumer driven testing allows you to describe contracts between consumers and providers that you can run validation against.
 
+### Description
+
+### Notes
+
 ## Links
 
 * [papercall.io talk submission](https://www.papercall.io/talks/new)
