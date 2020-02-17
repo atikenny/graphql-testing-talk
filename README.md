@@ -13,6 +13,10 @@ When building microservices the owners of the services know very little about ho
 
 ### Notes
 
+### Tags
+
+JavaScript, GraphQL, Pact.io, Consumer Driven Testing, Testing, QA, Microservices
+
 ## Links
 
 * [papercall.io talk submission](https://www.papercall.io/talks/new)
